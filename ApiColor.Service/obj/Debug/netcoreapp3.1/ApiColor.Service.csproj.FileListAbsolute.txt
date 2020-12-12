@@ -1,0 +1,12 @@
+C:\Users\ybhar\source\repos\ApiColor\ApiColor.Service\bin\Debug\netcoreapp3.1\ApiColor.Service.deps.json
+C:\Users\ybhar\source\repos\ApiColor\ApiColor.Service\bin\Debug\netcoreapp3.1\ApiColor.Service.runtimeconfig.json
+C:\Users\ybhar\source\repos\ApiColor\ApiColor.Service\bin\Debug\netcoreapp3.1\ApiColor.Service.runtimeconfig.dev.json
+C:\Users\ybhar\source\repos\ApiColor\ApiColor.Service\bin\Debug\netcoreapp3.1\ApiColor.Service.dll
+C:\Users\ybhar\source\repos\ApiColor\ApiColor.Service\bin\Debug\netcoreapp3.1\ApiColor.Service.pdb
+C:\Users\ybhar\source\repos\ApiColor\ApiColor.Service\obj\Debug\netcoreapp3.1\ApiColor.Service.csprojAssemblyReference.cache
+C:\Users\ybhar\source\repos\ApiColor\ApiColor.Service\obj\Debug\netcoreapp3.1\ApiColor.Service.AssemblyInfoInputs.cache
+C:\Users\ybhar\source\repos\ApiColor\ApiColor.Service\obj\Debug\netcoreapp3.1\ApiColor.Service.AssemblyInfo.cs
+C:\Users\ybhar\source\repos\ApiColor\ApiColor.Service\obj\Debug\netcoreapp3.1\ApiColor.Service.csproj.CoreCompileInputs.cache
+C:\Users\ybhar\source\repos\ApiColor\ApiColor.Service\obj\Debug\netcoreapp3.1\ApiColor.Service.dll
+C:\Users\ybhar\source\repos\ApiColor\ApiColor.Service\obj\Debug\netcoreapp3.1\ApiColor.Service.pdb
+C:\Users\ybhar\source\repos\ApiColor\ApiColor.Service\obj\Debug\netcoreapp3.1\ApiColor.Service.genruntimeconfig.cache
